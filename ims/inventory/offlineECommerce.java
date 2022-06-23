@@ -10,7 +10,7 @@ import javax.xml.transform.Source;
 import java.lang.*;
 
 
-public class OfflineECommerce {
+public class offlineECommerce {
 
     public static void main(String[] args) throws IOException {
         int userID = 0;

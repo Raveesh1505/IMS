@@ -7,6 +7,7 @@ public class Product {
     public boolean Availability;
     private Double price;
     protected int ProductQuantity = 0;
+    protected int ProductId = 1;
     
     public Product(String Name, Double price, int qty)
     {
